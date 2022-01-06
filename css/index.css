@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    font-family: 'Arial Narrow Bold', sans-serif 'Times New Roman', Times,;
+    font: weight 32px;
+}
+                /* بدا  navbar*/
+.log{
+    float:right;
+    display: inline-block;
+}
+ul{
+    float:left;
+list-style-type: none;
+padding: 20px;
+}
+li{
+    display: inline-block;
+    margin-left: 10px;
+}
+.clar{
+    clear: both;
+}
+.navbar{
+   background-color: rgb(166, 218, 84); 
+   font: bold;
+   margin-bottom: 100px;
+}
+a{
+text-decoration-line: none;
+color: rgb(194, 15, 15);
+}
+/*نهايةnavbar*/
+                    .box {
+                         background-color: rgb(175, 90, 33);
+                         border: 5px solid rgb(204, 236, 24);
+                         padding: 10px 50px;
+                         margin: auto;
+                        width: 50%;
+                         text-align: center;
+                        }
+div{
+    margin: auto;
+    display: block;
+    width: 100%;
+}
+input{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+img{
+    display: inline;
+}
